@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dunba
-- 💻 I’m interested in Front End / Full Stack Software Development
-- 📺  I’m currently learning React, looking to build media products
+- 💻 I’m interested in Web / iOS Development
+- 📺  I’m currently learning React
 - 📫 You can reach me via email at hello@dunba.world
 
 <!---
